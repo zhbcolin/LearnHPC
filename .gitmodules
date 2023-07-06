@@ -1,3 +1,6 @@
 [submodule "LearnCUDA"]
 	path = LearnCUDA
 	url = git@github.com:zhbcolin/LearnCUDA.git
+[submodule "LearnOpenMP"]
+	path = LearnOpenMP
+	url = git@github.com:zhbcolin/LearnOpenMP.git
