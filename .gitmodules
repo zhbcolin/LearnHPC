@@ -4,3 +4,6 @@
 [submodule "LearnOpenMP"]
 	path = LearnOpenMP
 	url = git@github.com:zhbcolin/LearnOpenMP.git
+[submodule "LearnMPI"]
+	path = LearnMPI
+	url = git@github.com:zhbcolin/LearnMPI.git
